@@ -1,6 +1,6 @@
 # WinViewUSB - Windows USB Device Enumerator
 
-A Windows console application written in C that enumerates and displays information about USB devices connected to the system using Windows API.
+A Windows console application written in C that enumerates and displays information about USB devices connected to the system using Windows API. Written with Cursor AI.
 
 ## Features
 
