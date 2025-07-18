@@ -18,6 +18,7 @@ A Windows console application written in C that enumerates and displays informat
 
 - Windows operating system
 - MinGW-w64
+- Windows SDK (for setupapi.h, devguid.h headers)
 - Make utility (mingw32-make)
 
 ## Building the Application
